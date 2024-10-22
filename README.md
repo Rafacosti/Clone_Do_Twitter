@@ -5,7 +5,7 @@ Este projeto é um clone do Twitter, desenvolvido utilizando React e Next.js. O 
 ## Demonstração
 
 <div align="center">
-<img width=100% botton=50px src="*"/>
+<img width=100% botton=50px />
 
 ![Imagem 1](https://github.com/user-attachments/assets/724d0042-58a4-435e-a086-cb8dad8c9adc)
 *Esta é login do X com parte para fazer cadastro e logar uma conta ja existente *
