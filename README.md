@@ -9,7 +9,7 @@ Este projeto é um clone do Twitter, desenvolvido utilizando React e Next.js. O 
 
 *Descrição da Imagem 1*
 
-![Imagem 2](link-da-imagem-2)
+![Imagem 2](https://github.com/user-attachments/assets/724d0042-58a4-435e-a086-cb8dad8c9adc)
 *Descrição da Imagem 2*
 
 ![Imagem 3](link-da-imagem-3)
