@@ -17,7 +17,7 @@ Este projeto é um clone do Twitter, desenvolvido utilizando React e Next.js. O 
 *pagina principal do clone do twitter com boa parte da interface de usuários e tweets e informações gerais da pagina*
 
 ![Imagem 4](https://github.com/user-attachments/assets/0449cd3a-a9b4-4dce-b77a-a24839f68f5b)
-*Parte de responder ao um twett feito por um usuário na pagina*
+*Parte de responder a um tweet feito por um usuário na pagina*
 ![Imagem 5](https://github.com/user-attachments/assets/1af8ce8e-0035-40b2-b9d2-870192a89c8e)
 *parte de fazer alterações no perfil do usuário ex: mudar bio,nome,colocar imagens de perfil e capa etc...*
 
