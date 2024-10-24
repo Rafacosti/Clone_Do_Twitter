@@ -23,7 +23,7 @@ Este projeto é um clone do Twitter, desenvolvido utilizando React e Next.js. O 
 *Página de edição de perfil do usuário, com opções para mudar bio, nome, adicionar imagens de perfil e capa, etc.*
 
 
-## Tecnologias Utilizadas/Dependencies
+## Tecnologias Utilizadas/Dependências
 
 -React
 -Next.js
