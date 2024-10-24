@@ -20,17 +20,16 @@ Este projeto é um clone do Twitter, desenvolvido utilizando React e Next.js. O 
 *Parte de responder ao um twett feito por um usuário na pagina*
 ![Imagem 5](https://github.com/user-attachments/assets/1af8ce8e-0035-40b2-b9d2-870192a89c8e)
 *parte de fazer alterações no perfil do usuário ex: mudar bio,nome,colocar imagens de perfil e capa etc...*
-![Imagem ](link-da-imagem-4)
-*Descrição da Imagem 4*
 
 
-
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas/Dependencies
 
 - React
 - Next.js
-- CSS
-- Axios (para requisições HTTP)
+- Tailwindcss
+- Typescript
+- react-bootstrap
+
 
 ## Pré-requisitos
 
@@ -38,4 +37,8 @@ Antes de começar, certifique-se de que você possui os seguintes requisitos ins
 
 - Node.js (versão 14 ou superior)
 - npm (geralmente vem instalado com o Node.js)
+- npm install bootstrap
 
+## Rodar o projeto
+
+para rodar o projeto use: npm run dev || yarn start
